@@ -27,3 +27,12 @@ cd cisco-dhcp-auditor
 ```bash
 pip install netmiko colorama
 ```
+
+## Sample Output
+
+The tool generates beautiful, color-coded reports. 
+
+![](scrn_shot1.PNG)
+![](scrn_shot2.PNG)
+![](scrn_shot3.PNG)
+
